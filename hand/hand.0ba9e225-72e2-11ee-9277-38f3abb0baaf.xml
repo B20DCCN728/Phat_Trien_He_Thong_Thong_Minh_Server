@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hand</folder>
+	<filename>hand.0ba9e225-72e2-11ee-9277-38f3abb0baaf.jpg</filename>
+	<path>C:\Users\Nguyen Hoang Viet\Documents\Python Clone Project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hand\hand.0ba9e225-72e2-11ee-9277-38f3abb0baaf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>221</ymin>
+			<xmax>303</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>
